@@ -1,0 +1,20 @@
+body {
+    background-color: turquoise;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+.search-Word {
+    height: 3rem;
+    width: 60%;
+    border-radius: 5px;
+}
+
+.enterbutton {
+    background-color: teal;
+    height: 2rem;
+    width: 4rem;
+    font-weight: bold;
+}
